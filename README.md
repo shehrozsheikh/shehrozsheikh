@@ -25,7 +25,7 @@ Known for my problem-solving skills and collaborative spirit, a senior colleague
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehrozsheikh&theme=radical)
 
-![WakaTime stats](https://github-readme-stats-gamma-five-47.vercel.app/api/wakatime?username=@shehrozsheikh&layout=compact)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@shehrozsheikh&layout=compact)
 
 ---
 
