@@ -21,7 +21,7 @@ Known for my problem-solving skills and collaborative spirit, a senior colleague
 
 ![Shehroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehrozsheikh&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehrozsheikh&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehrozsheikh&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehrozsheikh&theme=radical)
 
@@ -32,5 +32,3 @@ Known for my problem-solving skills and collaborative spirit, a senior colleague
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shehroz21-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shehroz21)
 
 ---
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
