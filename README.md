@@ -19,11 +19,11 @@ Known for my problem-solving skills and collaborative spirit, a senior colleague
 
 ## 🚀 GitHub Stats
 
-![Shehroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehrozsheikh&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Shehroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehrozsheikh&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shehrozsheikh&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehrozsheikh&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehrozsheikh&theme=radical)
 
 ---
 
