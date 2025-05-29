@@ -19,13 +19,13 @@ Known for my problem-solving skills and collaborative spirit, a senior colleague
 
 ## 🚀 GitHub Stats
 
-![Shehroz's GitHub stats](https://shehrozsheikh-github-stats.vercel.app/api?username=shehrozsheikh&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Shehroz%27s%20GitHub%202025%20Stats&hide_rank=true&hide=stars&show=prs_merged)
+![Shehroz's GitHub stats](https://github-readme-stats-tau-five-90.vercel.app/api?username=shehrozsheikh&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Shehroz%27s%20GitHub%202025%20Stats&hide_rank=true&hide=stars&show=prs_merged)
 
-![Top Languages](https://shehrozsheikh-github-stats.vercel.app/api/top-langs/?username=shehrozsheikh&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-tau-five-90.vercel.app/api/top-langs/?username=shehrozsheikh&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehrozsheikh&theme=radical)
 
-![WakaTime stats](https://shehrozsheikh-github-stats.vercel.app/api/wakatime?username=@shehrozsheikh&layout=compact)
+![WakaTime stats](https://github-readme-stats-tau-five-90.vercel.app/api/wakatime?username=@shehrozsheikh&layout=compact)
 
 ---
 
