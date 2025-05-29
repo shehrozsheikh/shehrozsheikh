@@ -12,9 +12,6 @@ I am an avid learner who quickly adapts to new technologies and continuously exp
 
 In addition to my professional work, I actively contribute to Stack Overflow and open-source communities like GitHub, WordPress Core, and WooCommerce. I am the creator of multiple free WordPress plugins and Chrome Extensions.
 
-Known for my problem-solving skills and collaborative spirit, a senior colleague once said:  
-> “He’s constantly digging into complex bugs no one else seems to be able to solve, always pitching in to help others when they’re stuck, and he’s got drive and initiative for days.”
-
 ---
 
 ## 🚀 GitHub Stats
