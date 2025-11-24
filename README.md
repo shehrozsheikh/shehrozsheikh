@@ -18,12 +18,6 @@ In addition to my professional work, I actively contribute to Stack Overflow and
 
 ![Shehroz's GitHub stats](https://github-readme-stats-gamma-five-47.vercel.app/api?username=shehrozsheikh&show_icons=true&theme=dark&count_private=true&custom_title=Shehroz%27s%20GitHub%202025%20Stats&hide_rank=true&hide=stars&show=prs_merged&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&include_all_commits=true)   ![Top Languages](https://github-readme-stats-gamma-five-47.vercel.app/api/top-langs/?username=shehrozsheikh&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shehrozsheikh&theme=radical)
-
-## 🚀 WakaTime Stats
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@shehrozsheikh&layout=compact)
-
 ---
 
 ## 📫 Connect with me
