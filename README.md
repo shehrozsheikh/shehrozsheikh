@@ -1,6 +1,6 @@
 # Hi, I’m Shehroz Ahmed 👋
 
-**Senior Software Engineer | WordPress Expert | Python AI Developer | ReactJS & React Native | NodeJS | PHP | AI & DevOps Integrations**
+**Senior FullStack Software Engineer | WordPress Expert | Python AI Developer | ReactJS & React Native | NodeJS | PHP | AI & DevOps Integrations**
 
 ---
 
